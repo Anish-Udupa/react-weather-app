@@ -4,6 +4,8 @@
 //	1. GeoDB Cities API: https://rapidapi.com/wirefreethought/api/geodb-cities/
 //	2. OpenWeather API: https://openweathermap.org/
 
+// These keys are deactivated. 
+
 export const geoAPIOptions = {
 	method: 'GET',
 	headers: {

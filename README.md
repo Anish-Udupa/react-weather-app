@@ -1,3 +1,10 @@
+# Project Description
+This is a simple app which displays the weather report of a particular city along with a week's prediction. 
+
+## APIs Used
+1. OpenWeather API: https://openweathermap.org/
+2. GeoDB Cities API: https://rapidapi.com/wirefreethought/api/geodb-cities/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

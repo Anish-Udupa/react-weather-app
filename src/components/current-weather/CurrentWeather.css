@@ -1,0 +1,33 @@
+#current-weather-container{
+    width: 30%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 0px 40px;
+    padding-top: 40px;
+}
+
+#city-name {
+    font-size: 35px;
+    font-weight: bold;
+    padding: 0px;
+    margin: 10px 0px;
+}
+
+#weather-description {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#temperature {
+    font-size: 40px;
+    
+}
